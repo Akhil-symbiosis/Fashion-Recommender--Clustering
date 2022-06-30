@@ -1,2 +1,0 @@
-# Fashion-Recommender-Clustering
-The project's intent is to assist the user in selecting clothing that is appropriate for the occasion and in purchasing clothing that is appropriate for their style. In this article, an in-depth examination of numerous systems is conducted to determine the many elements that must be considered while developing a robust system that discovers and recommends matching garments for the user.
